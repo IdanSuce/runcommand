@@ -7,7 +7,7 @@ There is just one source file `runcommand.cpp`. It's written under the compile-a
 
 
 ```python
-# Usage of P:\linear algebra\runcommand.exe
+# Usage of .\runcommand.exe
 # Version: 5.0
 # Pass paths of text files where there are option to be done by args. If no file is given, the program will read 'runcommand.txt' by default.
 # In the text, one line for one command.
